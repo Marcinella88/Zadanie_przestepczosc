@@ -1,0 +1,18 @@
+# Ignorowanie plików środowiska
+venv/
+.env
+
+# Pliki tymczasowe
+__pycache__/
+*.pyc
+
+# Pliki edytorów
+.vscode/
+.idea/
+
+# Pliki danych
+*.xlsx
+*.csv
+
+# Inne
+.DS_Store
