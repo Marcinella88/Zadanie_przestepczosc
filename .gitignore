@@ -5,6 +5,7 @@ venv/
 # Pliki tymczasowe
 __pycache__/
 *.pyc
+*.ipynb
 
 # Pliki edytorów
 .vscode/
