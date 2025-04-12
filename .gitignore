@@ -1,6 +1,7 @@
 # Ignorowanie plików środowiska
 venv/
 .env
+env/
 
 # Pliki tymczasowe
 __pycache__/
